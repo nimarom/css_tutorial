@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.wrapper {
+    border: 1px solid black;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.basic {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+}
+
+.px {
+    height: 100px;
+    width: 500px;
+    background-color: powderblue;
+}
+
+.max {
+    max-width: 500px;
+    height: 100px;
+    background-color: powderblue;
+}
